@@ -1,2 +1,2 @@
-# nyoba-blockhain
+# nyoba-blockchain
 just for fun
